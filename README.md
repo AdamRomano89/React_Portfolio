@@ -42,7 +42,7 @@
 
 
 ### Visual
-![image](https://user-images.githubusercontent.com/77648727/121286190-544d5000-c894-11eb-9e44-badca49667bc.png)
+![image](https://res.cloudinary.com/dasr4nopa/image/upload/v1640581409/Untitled_bmqgvm.jpg)
 
 ### Resources 🤝
 - [Material UI](https://material-ui.com/)
