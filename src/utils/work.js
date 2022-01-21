@@ -38,11 +38,11 @@ const Work = {
     },
   
     {id: `5`,
-        title: `Quiz App`,
-        image: `https://github.com/AdamRomano89/Quiz-App/blob/main/assets/images/screenshot.png?raw=true`,
-        lang: `HTML, CSS, JavaScript.`,
-        live: `https://adamromano89.github.io/Quiz-App/`,
-        github: `https://github.com/AdamRomano89/Quiz-App`,
+        title: `JUSTAWEAR`,
+        image: `https://github.com/Justawear/justAwear/blob/29ea1098d9e4f9ab3aa97f8bbd50944da66f37de/client/public/images/site/JW-1.JPG`,
+        lang: `JavaScript, GraphQl, AntD, React`,
+        live: `https://justawear-mern.herokuapp.com/`,
+        github: `https://github.com/Justawear/justAwear`,
        
     },
 
