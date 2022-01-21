@@ -39,7 +39,7 @@ const Work = {
   
     {id: `5`,
         title: `JUSTAWEAR`,
-        image: `https://github.com/Justawear/justAwear/blob/29ea1098d9e4f9ab3aa97f8bbd50944da66f37de/client/public/images/site/JW-1.JPG`,
+        image: `https://github.com/Justawear/justAwear/blob/main/client/public/images/site/JW-1.JPG?raw=true`,
         lang: `JavaScript, GraphQl, AntD, React`,
         live: `https://justawear-mern.herokuapp.com/`,
         github: `https://github.com/Justawear/justAwear`,
